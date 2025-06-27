@@ -35,7 +35,7 @@ Repository Pattern: separa business logic dalla persistenza. Facilita cambio for
 
 ## Diagramma UML
 
-Immagine in: "spesepersonali\logs\uml\UML_Diagram.png"
+Immagine in: "spesepersonali\data\UML_Diagram.png"
 
 
 
